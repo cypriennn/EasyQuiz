@@ -1,0 +1,194 @@
+{
+  "title": "Win an Eiffel Tower!",
+  "image_url": "https://cloud.cyprien.ovh/download/france.svg",
+  "time_limits_per_type": {
+    "true_false": 10,
+    "multiple_choice": 20
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "text": "Which pastry's origin is actually not French?",
+      "options": [
+        "Éclair",
+        "Croissant",
+        "Macaron",
+        "Paris-Brest"
+      ],
+      "answer": "Croissant"
+    },
+    {
+      "type": "true_false",
+      "text": "The Statue of Liberty was a gift from France to the USA.",
+      "answer": true
+    },
+    {
+      "type": "multiple_choice",
+      "text": "In French culture, “la bise” refers to…",
+      "options": [
+        "A type of cheese",
+        "A cheek-kiss greeting",
+        "A strong wind",
+        "A famous pastry"
+      ],
+      "answer": "A cheek-kiss greeting"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Which unusual marriage is legally possible in France with presidential approval?",
+      "options": [
+        "Remote marriage by video",
+        "Marriage between first cousins",
+        "Posthumous marriage (to someone deceased)",
+        "Marriage to two spouses"
+      ],
+      "answer": "Posthumous marriage (to someone deceased)"
+    },
+    {
+      "type": "true_false",
+      "text": "In France, it is illegal to name a pig “Napoléon.”",
+      "answer": false
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Which French village declared war on Germany in 1945?",
+      "options": [
+          "Niedermorschwihr",
+          "Montigny-en-Gohelle",
+          "Niederschaeffolsheim",
+          "Mittelschaeffolsheim"
+      ],
+      "answer": "Montigny-en-Gohelle"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Including its overseas territories, which country spans the most time zones?",
+      "options": [
+        "Russia",
+        "USA",
+        "France",
+        "Australia"
+      ],
+      "answer": "France"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "The famous Mont Saint-Michel is…",
+      "options": [
+        "A volcanic island",
+        "A tidal island with an abbey",
+        "A traditional French cake",
+        "A Roman amphitheater"
+      ],
+      "answer": "A tidal island with an abbey"
+    },
+    {
+      "type": "true_false",
+      "text": "The Eiffel Tower was originally intended to be a permanent structure.",
+      "answer": false
+    },
+    {
+      "type": "multiple_choice",
+      "text": "The Michelin Guide, which awards stars to restaurants, was originally created by a...",
+      "options": [
+        "Newspaper",
+        "University",
+        "Tire company",
+        "Chef’s union"
+      ],
+      "answer": "Tire company"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Which country has the most Michelin-starred restaurants?",
+      "options": [
+        "Japan",
+        "France",
+        "USA",
+        "Italy"
+      ],
+      "answer": "France"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Roughly how many people’s remains are arranged in the Paris Catacombs?",
+      "options": [
+        "Around 60,000",
+        "Around 600,000",
+        "Around 6 million",
+        "Around 16 million"
+      ],
+      "answer": "Around 6 million"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Which mountain is the highest in France and in Western Europe?",
+      "options": [
+        "Monte Bianco",
+        "Mont Pourri",
+        "Everest",
+        "Mont Blanc"
+      ],
+      "answer": "Mont Blanc"
+    },
+    {
+      "type": "true_false",
+      "text": "A Frenchman invented a functional parachute before the first airplane was invented.",
+      "answer": true
+    },
+    {
+      "type": "multiple_choice",
+      "text": "What is the nationality of the luxury car brand Bugatti?",
+      "options": [
+        "Italian",
+        "French",
+        "German",
+        "Korean"
+      ],
+      "answer": "French"
+    },
+        {
+      "type": "multiple_choice",
+      "text": "Approximately how many castles are there in France?",
+      "options": [
+          "45,000",
+          "150",
+          "380",
+          "8,450"
+      ],
+      "answer": "45,000"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "France is the most visited country in the world, but how many tourists does it receive each year?",
+      "options": [
+          "90 million",
+          "8 billion",
+          "153",
+          "50 million"
+      ],
+      "answer": "90 million"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Why did Zinédine Zidane get a red card in the 2006 World Cup final?",
+      "options": [
+        "He insulted the referee",
+        "He pushed an opponent",
+        "He headbutted an opponent",
+        "He took off his shirt"
+      ],
+      "answer": "He headbutted an opponent"
+    },
+    {
+      "type": "true_false",
+      "text": "French was the official language of England for about 300 years.",
+      "answer": true
+    },
+    {
+      "type": "true_false",
+      "text": "France is the best stand at the international festival.",
+      "answer": true
+    }
+  ]
+}
